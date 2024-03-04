@@ -2,6 +2,15 @@
 
 I like cooking but I usually just eat what I've made without clicking pictures. Sometimes, I do take pictures, and I've put some of those together here. I hope you like it! I'm learning a little bit every week.
 
+| <img src="https://github.com/ChengSashankh/cooking/assets/15691658/902ec868-83e4-4f3f-ac8f-2fa145cf0113" height="250"> | <img src="https://github.com/ChengSashankh/cooking/assets/15691658/3f1bc9bd-606e-472e-a9b3-fc2bb5f8aa72" height="250"> |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/ChengSashankh/cooking/assets/15691658/c5e6561c-6e39-4e4b-b45b-0e8e24a48ebf" height="250"> | <img src="https://github.com/ChengSashankh/cooking/assets/15691658/d93710c7-f6ed-421f-ac19-04281bea3144" height="250"> |
+| <img src="https://github.com/ChengSashankh/cooking/assets/15691658/8f429661-a5e7-459e-baad-db83853f4623" height="250"> | <img src="https://github.com/ChengSashankh/cooking/assets/15691658/77a787b5-a5ab-49f1-a351-269cd2e69220" height="250"> |
+| <img src="https://github.com/ChengSashankh/cooking/assets/15691658/469826c7-2268-40a4-93fb-dece26e729b8" height="250"> |                                                                                                                        |
+|                                                                                                                        |                                                                                                                        |
+
+
+
 ![tomato_soup](https://github.com/ChengSashankh/cooking/assets/15691658/902ec868-83e4-4f3f-ac8f-2fa145cf0113)
 ![south_indian_meal](https://github.com/ChengSashankh/cooking/assets/15691658/3f1bc9bd-606e-472e-a9b3-fc2bb5f8aa72)
 ![sambar](https://github.com/ChengSashankh/cooking/assets/15691658/c5e6561c-6e39-4e4b-b45b-0e8e24a48ebf)
